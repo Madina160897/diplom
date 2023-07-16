@@ -1,0 +1,8 @@
+export {default as MainPage } from "./MainPage"
+export {default as ErrorPage } from "./ErrorPage"
+export {default as ActorsPage } from "./ActorsPage"
+export {default as DoramsPage } from "./DoramsPage"
+export {default as ActorsInfo } from "./routerInfo/ActorsInfo"
+export {default as DoramsInfo } from "./routerInfo/DoramsInfo"
+export {default as Registration} from "./Registration"
+export {default as Authorization} from "./Authorization"

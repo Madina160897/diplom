@@ -1,0 +1,7 @@
+export {default as inst } from "../img/instagram.png"
+export {default as vk } from "../img/vk.png"
+export {default as tele } from "../img/telegram.png"
+export {default as like } from "../img/like.png"
+export {default as dislike } from "../img/dislike.png"
+export {default as save } from "../img/bookmark.png"
+export {default as unsave } from "../img/bookmark1.png"
